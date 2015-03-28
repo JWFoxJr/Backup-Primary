@@ -1,4 +1,4 @@
-Automated TableaU Server Backup Primary Failover POC
+Automated Tableau Server Backup Primary Failover POC
 =========
 
 This is sample code, and is not supported by Tableau. Please be kind and don't call Technical Support for help - they don't know what this is!
