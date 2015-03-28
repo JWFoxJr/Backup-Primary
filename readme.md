@@ -10,6 +10,7 @@ What does it do?
   - Lets you configure the number of consecutive connection failures in 60 seconds before failover
   - Enables you to set the interval at which we check to see if the Primary is still alive
 
+Vid: https://www.youtube.com/watch?v=Y5OrcamOVio
 
 Version
 ----
