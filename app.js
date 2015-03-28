@@ -5,8 +5,8 @@ var Monitor = require('ping-monitor');
     //Name of your Primary 
     var primary = "10.211.55.8";
     //Name of your Backup Primary
-    var backupPrimary = "10.211.55.8";
-    // Number of consecutive connection failures within 60 seconds before failover  
+    var backupPrimary = "10.211.55.6";
+    // Number of CONSECUTIVE connection failures within 60 seconds before failover  
     var numberFailures = 3;
     // Ping interval in minutes. Make sure pingInterval * numberFailures <=1
     var pingInterval = .25
